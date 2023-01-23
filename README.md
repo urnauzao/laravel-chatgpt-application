@@ -13,6 +13,7 @@ The entire Laravel project also has TailwindCSS themes, Vite.js to compile scrip
 <h4>Installation</h4>
 
 -   Clone this repository
+-   Run `composer update`
 -   Into folder, run `./vendor/bin/sail build`
 -   After build, run `./vendor/bin/sail up -d`
 -   Done, access on browser `http://localhost`
